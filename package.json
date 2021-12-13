@@ -1,0 +1,35 @@
+{
+  "name": "kimisnew",
+  "version": "1.0.0",
+  "description": "Kimis new professional hard HTML site",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitrikov/kimis-front.git"
+  },
+  "keywords": [
+    "kimis",
+    "online"
+  ],
+  "author": "mitrikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitrikov/kimis-front/issues"
+  },
+  "homepage": "https://github.com/mitrikov/kimis-front#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.45.0",
+    "uuid": "^8.3.2"
+  },
+  "dependencies": {}
+}
